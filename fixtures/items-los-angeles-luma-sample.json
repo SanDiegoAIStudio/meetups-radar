@@ -1,0 +1,56 @@
+[
+  {
+    "id": "wellness-shelf-noise",
+    "name": "INFINITE WELLNESS MASTERCLASSES III: Renewal Weekend",
+    "description": "",
+    "startAt": "2026-11-26T18:00:00-08:00",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/wellness-shelf-noise",
+    "location": {
+      "locationType": "offline",
+      "city": "Los Angeles"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "igda-mixer-host",
+    "name": "Game Makers Monthly Mixer - Autumn",
+    "description": "",
+    "startAt": "2026-11-25T19:00:00-08:00",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/igda-mixer-host",
+    "location": {
+      "locationType": "offline",
+      "city": "Los Angeles"
+    },
+    "organizer": {
+      "name": "IGDA LA Events"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "isc2-la-title",
+    "name": "ISC2 Southland Chapter Yearly Business Meeting",
+    "description": "Yearly chapter business.",
+    "startAt": "2027-02-12T02:00:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/isc2-la-title",
+    "location": {
+      "locationType": "offline",
+      "city": "Los Angeles"
+    },
+    "organizer": {
+      "name": "ISC2 Southland"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  }
+]

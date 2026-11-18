@@ -1,0 +1,218 @@
+[
+  {
+    "eventId": "420953442",
+    "eventName": "(OT)²Sec Online™: Practical Plant-Floor Skills for Cybersecurity Teams",
+    "eventDescription": "Controls networks and plant-floor device protection.",
+    "startDateTime": "2026-11-04T10:00:00-08:00",
+    "isOnline": true,
+    "eventShortUrl": "https://www.meetup.com/la/events/420953442/",
+    "organizedByGroup": "Los Angeles Plant Security Circle",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "host-socal-python",
+    "eventName": "Autumn Gathering at a Neighborhood Pub",
+    "eventDescription": "",
+    "startDateTime": "2026-11-19T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "SoCal Python",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "host-socalsec",
+    "eventName": "SoCalSec - Autumn Session",
+    "eventDescription": "",
+    "startDateTime": "2026-11-20T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "SoCalSec",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "cpp-virtual",
+    "eventName": "(Virtual) Matrix Math Walkthrough",
+    "eventDescription": "A discussion of language features.",
+    "startDateTime": "2026-11-24T18:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Los Angeles Sprawl C++ User Group",
+    "venue": {
+      "city": "Los Angeles"
+    }
+  },
+  {
+    "eventId": "malware-title",
+    "eventName": "Malware Teardown Evening",
+    "eventDescription": "A hands-on look at analysis tools.",
+    "startDateTime": "2026-11-25T19:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Bytes Lab Collective",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Bytes Lab"
+    }
+  },
+  {
+    "eventId": "coworking-social",
+    "eventName": "Westside Tech Coworking Fridays",
+    "eventDescription": "A weekly coworking session for builders.",
+    "startDateTime": "2026-11-26T09:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Dawn Partners",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Dawn Studio"
+    }
+  },
+  {
+    "eventId": "threat-hunting-title",
+    "eventName": "Threat Hunting Basics: Spot What Gets Missed",
+    "eventDescription": "A defensive workshop.",
+    "startDateTime": "2026-11-27T10:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Defenders Circle SoCal",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "tokenized-assets-title",
+    "eventName": "Introducing the Ledgerbridge Lab for Tokenized Settlement Markets",
+    "eventDescription": "Common designs for moving financial products on a ledger.",
+    "startDateTime": "2026-11-28T10:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "LFDT Los Angeles",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "rollups-lfdt-host",
+    "eventName": "ZK Reading Group: Zero Knowledge Rollups",
+    "eventDescription": "Monthly session of the study group.",
+    "startDateTime": "2026-11-05T09:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "LFDT Los Angeles",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "graphcon-host-item",
+    "eventName": "Road to GRAPHCON 2026",
+    "eventDescription": "Our annual online builder conference is coming up.",
+    "startDateTime": "2026-11-06T08:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Graph Database SoCal",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "founders-playbook-title",
+    "eventName": "Founders Roundtable: A Fireside Chat With a Former Hacker Who Sold Up",
+    "eventDescription": "Hear the story of building and selling a company.",
+    "startDateTime": "2026-11-12T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Roundtable Community",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "no-software-boilerplate",
+    "eventName": "Hiking Trip Questions Hour",
+    "eventDescription": "This Zoom gathering happens monthly. No software needed. Join from any browser.",
+    "startDateTime": "2026-11-13T19:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Trailhead Adventures",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "ai-dev-group-host",
+    "eventName": "Running Helper Agents at Work - Session 3",
+    "eventDescription": "Sign up on the event page to get the link.",
+    "startDateTime": "2026-11-14T09:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "SoCal AI Developer Group",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "circuits-social-title",
+    "eventName": "Circuits Social",
+    "eventDescription": "Meet to talk about electronic parts. Bring questions and projects.",
+    "startDateTime": "2026-11-15T19:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Makerspace Culver Collective",
+    "venue": {
+      "city": "Culver City",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "wearables-title",
+    "eventName": "Wearables Wednesday",
+    "eventDescription": "Monthly night for sewable electronics. Start a project or bring one.",
+    "startDateTime": "2026-11-16T20:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Makerspace Culver Collective",
+    "venue": {
+      "city": "Culver City",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "latechweek-glued",
+    "eventName": "Sunrise Jog #LATechWeek",
+    "eventDescription": "A morning jog with the startup community.",
+    "startDateTime": "2026-11-17T08:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Trailside Community",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Hilltop Park"
+    }
+  },
+  {
+    "eventId": "snow-social-noise",
+    "eventName": "Winter Crew Skier & Snowboarder Happy Hour",
+    "eventDescription": "Snow sport fans gather for drinks. Staff may ask for ID at the door.",
+    "startDateTime": "2027-01-27T18:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Frostline Social Club",
+    "venue": {
+      "city": "Los Angeles",
+      "name": "Corner Taproom"
+    }
+  },
+  {
+    "eventId": "socal-r-host",
+    "eventName": "Leap Day: Primary Edition",
+    "eventDescription": "Monthly chapter session.",
+    "startDateTime": "2027-01-27T18:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "SoCal R Users Group",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  }
+]

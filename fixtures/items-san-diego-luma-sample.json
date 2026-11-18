@@ -1,0 +1,247 @@
+[
+  {
+    "id": "evt-k3Qm7LpT2WxNa5c",
+    "name": "Lawyer Versus Language Model, with Example Law Office",
+    "description": null,
+    "startAt": "2027-02-05T02:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/q7nz2kwe",
+    "location": {
+      "locationType": "offline",
+      "city": null
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "personal-hosts",
+    "name": "AI Hosts Evening",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-07T18:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/personal-hosts",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "hosts": [
+      {
+        "name": "test@example.com"
+      },
+      {
+        "name": "Makers & Backers"
+      },
+      {
+        "name": "Personal"
+      },
+      {
+        "name": "Host A"
+      },
+      {
+        "name": "Makers & Backers"
+      },
+      {
+        "name": "Host B"
+      }
+    ],
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "personal-no-hosts",
+    "name": "AI Open Calendar",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-08T18:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/personal-no-hosts",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "real-organizer",
+    "name": "AI Workshop Showcase",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-16T18:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/real-organizer",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Harbor Robotics Lab"
+    },
+    "hosts": [
+      {
+        "name": "Host A"
+      }
+    ],
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "multiday-end",
+    "name": "AI Five Day Sprint",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-09T17:00:00.000Z",
+    "endAt": "2026-11-14T01:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/multiday-end",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Sprint Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "end-before-start",
+    "name": "AI Zero Length Slot",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-17T17:00:00.000Z",
+    "endAt": "2026-11-17T17:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/end-before-start",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Slot Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "sidecar-summary",
+    "name": "AI Lab Journal Night",
+    "description": "",
+    "startAt": "2026-11-20T20:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/sidecar-summary",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Sidecar Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "sidecar-no-topic",
+    "name": "AI Prototype Night",
+    "description": "",
+    "startAt": "2026-11-21T20:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/sidecar-no-topic",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Sidecar Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "raw-description-wins",
+    "name": "AI Agenda Text Night",
+    "description": "The agenda text lays out the evening for local builders.",
+    "startAt": "2026-11-22T20:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/raw-description-wins",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Sidecar Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "title-echo",
+    "name": "Quiet Signal Hour for AI Builders",
+    "description": "",
+    "startAt": "2026-11-23T20:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/title-echo",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Sidecar Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": [
+      "evt-list"
+    ],
+    "name": "AI Array Id Night",
+    "description": "A neighborhood AI session.",
+    "startAt": "2026-11-24T20:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/list-id",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "List Id Lab"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "evt-roundtable-x",
+    "name": "AI Builders Roundtable Evening",
+    "description": "A round table for local AI builders.",
+    "startAt": "2026-12-04T02:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/rtbl4kzx",
+    "location": {
+      "locationType": "offline",
+      "city": "San Diego"
+    },
+    "organizer": {
+      "name": "Roundtable Collective"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  }
+]

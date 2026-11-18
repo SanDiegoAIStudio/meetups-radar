@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "generated_at": "2026-11-02T16:00:00Z",
+  "counts": {
+    "ids": 4,
+    "cached": 4,
+    "fetched": 0,
+    "empty": 0,
+    "failed": 0,
+    "deferred": 0
+  },
+  "details": {
+    "sidecar-summary": {
+      "description": "Doors open with a quick tour of what each table is working on. Everyone introduces a half finished project in a sentence. A volunteer keeps time for the evening.\nPart two is a rotating critique: three people get ten minutes each, and listeners write down one question they would ask.\nPart three splits the room by topic. Printed sign sheets list the tables, and organizers move between them to answer questions about tools and space.\nPart four is open build time. Power strips run along the east wall and a few loaner laptops sit on the cart by the entrance.\nSnacks and drinks are shared, so please label anything with allergens. The last twenty minutes are for cleanup and for choosing next month's focus.",
+      "guest_count": 12
+    },
+    "sidecar-no-topic": {
+      "description": "Security minded people share stories about penetration testing, red teaming and blue teaming. Expect malware talk, CISO concerns, ISC2 exam tips, threat hunting, mapping an attack surface plus secret scanning.",
+      "guest_count": 4
+    },
+    "raw-description-wins": {
+      "description": "A different blurb is cached next to the page; the calendar text wins over it.",
+      "guest_count": 1
+    },
+    "title-echo": {
+      "description": "QUIET  signal   hour for AI BUILDERS\nPeople swap notes about a compact model and finish with one follow-up task.",
+      "guest_count": 6
+    }
+  }
+}

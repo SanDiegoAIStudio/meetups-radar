@@ -1,0 +1,38 @@
+[
+  {
+    "id": "evt-money-satellite",
+    "name": "Ledger Co x Paycore x Alloy Money20/20 Rooftop Mixer",
+    "description": null,
+    "startAt": "2027-01-20T01:30:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/m4tc8xpr",
+    "location": {
+      "locationType": "offline",
+      "city": "Las Vegas"
+    },
+    "organizer": {
+      "name": "Ledger Co"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "digital-health-title",
+    "name": "Nordic Digital Health Showcase",
+    "description": "Companies show off health tech products.",
+    "startAt": "2027-02-15T18:30:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/digital-health-title",
+    "location": {
+      "locationType": "offline",
+      "city": "Las Vegas"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  }
+]

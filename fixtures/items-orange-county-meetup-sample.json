@@ -1,0 +1,173 @@
+[
+  {
+    "eventId": "420953442",
+    "eventName": "(OT)²Sec Online™: Practical Plant-Floor Skills for Cybersecurity Teams",
+    "eventDescription": "Controls networks and plant-floor device protection.",
+    "startDateTime": "2026-11-04T10:00:00-08:00",
+    "isOnline": true,
+    "eventShortUrl": "https://www.meetup.com/la/events/420953442/",
+    "organizedByGroup": "Los Angeles Plant Security Circle",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "tai-chi-boundary",
+    "eventName": "Orange County Sparring Hands Circle",
+    "eventDescription": "Everyone is welcome to practice t'ai chi drills; t’ai chi veterans can lead.",
+    "startDateTime": "2026-11-19T10:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Sparring Hands Practice Group",
+    "venue": {
+      "city": "Irvine",
+      "name": "Garden Park"
+    }
+  },
+  {
+    "eventId": "cnc-course-format",
+    "eventName": "CNC Router Course - Cut Your Own Designs!",
+    "eventDescription": "Learn to run a router table safely.",
+    "startDateTime": "2026-11-20T10:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "DIY Weekend Costa Mesa",
+    "venue": {
+      "city": "Costa Mesa",
+      "name": "Shop Annex"
+    }
+  },
+  {
+    "eventId": "host-rhug",
+    "eventName": "Costa Mesa Autumn Gathering",
+    "eventDescription": "",
+    "startDateTime": "2026-11-21T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Orange County Red Hat User Group",
+    "venue": {
+      "city": "Costa Mesa",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "quoted-ai-boundary",
+    "eventName": "'AI' Workshop for Small Shops",
+    "eventDescription": "A hands-on artificial intelligence session.",
+    "startDateTime": "2026-11-22T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Shoreline Builders",
+    "venue": {
+      "city": "Irvine",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "ocai-remote-miss",
+    "eventName": "OCAI: Weekly Help Desk",
+    "eventDescription": "Join at https://meet.google.com/xyz-wxyz-uvw",
+    "startDateTime": "2026-11-24T10:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Coastal Builders Lab",
+    "venue": {
+      "city": "Orange County"
+    }
+  },
+  {
+    "eventId": "oc-indies-host",
+    "eventName": "Indie Showcase Monthly",
+    "eventDescription": "Share what you shipped and meet other solo game makers.",
+    "startDateTime": "2026-11-25T19:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "OC Indie Developers",
+    "venue": {
+      "city": "Santa Ana",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "fake-claude-meetup",
+    "eventName": "Garden Grove Practical Claude Code Skills for Teams",
+    "eventDescription": "Techniques with claude code for engineers.",
+    "startDateTime": "2026-11-12T05:12:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "acme certs academy",
+    "venue": {
+      "city": "Garden Grove",
+      "name": "412 Main Plaza"
+    }
+  },
+  {
+    "eventId": "irvine-underground-host",
+    "eventName": "Monthly Basement Meeting",
+    "eventDescription": "Come with curiosity, give short talks, bring gear.",
+    "startDateTime": "2026-11-13T19:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Irvine Underground",
+    "venue": {
+      "city": "Irvine",
+      "name": "Corner Coffee House"
+    }
+  },
+  {
+    "eventId": "threedpoc-host",
+    "eventName": "Build Day Meetup",
+    "eventDescription": "Bring something you are making, or a tool, and show the group.",
+    "startDateTime": "2026-11-14T10:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "3DPOC - Printers Anaheim",
+    "venue": {
+      "city": "Anaheim",
+      "name": "Fab Space East"
+    }
+  },
+  {
+    "eventId": "417775709",
+    "eventName": "Which leads came from ChatGPT referrals?",
+    "eventDescription": "First meetup! Buyers now ask ChatGPT for recommendations. Is your company named? This session digs into it.",
+    "startDateTime": "2027-01-21T16:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/business-circle-oc/events/417775709/",
+    "organizedByGroup": "AI Business Circle OC",
+    "venue": {
+      "city": "Irvine",
+      "name": "Irvine Coworking Hall"
+    }
+  },
+  {
+    "eventId": "401711464",
+    "eventName": "OCTW Regional Logistics Summit 01/19/27",
+    "eventDescription": "Panels and mixing at a carmaker HQ in Irvine.",
+    "startDateTime": "2027-01-19T10:45:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/county-tech-council/events/401711464/",
+    "organizedByGroup": "County Tech Council",
+    "venue": {
+      "city": "Irvine",
+      "name": "Carmaker Campus"
+    }
+  },
+  {
+    "eventId": "492828605",
+    "eventName": "Campus League x Cloudfly @ Grace Hopper Celebration 01/27/27",
+    "eventDescription": "An evening get-together at a brewpub in Anaheim.",
+    "startDateTime": "2027-01-27T18:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/county-tech-council/events/492828605/",
+    "organizedByGroup": "County Tech Council",
+    "venue": {
+      "city": "Anaheim",
+      "name": "Riverside Brewpub"
+    }
+  },
+  {
+    "eventId": "figma-ux-title",
+    "eventName": "Friends of Figma: Winter UX Portfolio Showcase",
+    "eventDescription": "Designers present their product work.",
+    "startDateTime": "2027-02-11T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Design Friends (Irvine)",
+    "venue": {
+      "city": "Irvine",
+      "name": "Design Studio"
+    }
+  }
+]

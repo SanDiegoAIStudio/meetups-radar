@@ -1,0 +1,73 @@
+{
+  "groups": [
+    {
+      "name": "Example Makers Guild",
+      "match": "example makers guild|makers guild",
+      "platform": "meetup",
+      "category": "hardware",
+      "cadence": "weekly",
+      "venue": "Guild Workshop, Example City",
+      "note": "Open build nights for 3D printing and electronics."
+    },
+    {
+      "name": "Sample Python Circle",
+      "match": "sample python circle",
+      "platform": "meetup",
+      "category": "tech",
+      "cadence": "monthly, second Tuesday",
+      "venue": "Library Annex, Example City",
+      "note": "Talks and lightning rounds for Python users."
+    },
+    {
+      "name": "Demo Security Collective",
+      "match": "demo security collective",
+      "platform": "luma",
+      "category": "cyber",
+      "cadence": "monthly",
+      "venue": "Rotating venues",
+      "note": "Defensive security talks and capture-the-flag nights."
+    }
+  ],
+  "host_topics": [
+    {
+      "topic": "cyber",
+      "match": "^SoCalSec$"
+    },
+    {
+      "topic": "tech",
+      "match": "^(?:GoSF|SoCal Python|SoCal R Users Group|SD Ruby|SF Ruby|PyLadies of San Francisco|Los Angeles Sprawl C\\+\\+ User Group|Las Vegas WordPress Meetup Group|Las Vegas iOS Developers|OC Indie Developers|IGDA LA Events|OC Techqueria|SF Types, Theorems, and Programming Languages|Startup Island TAIWAN - Silicon Valley Hub|Orange County Red Hat User Group)$"
+    },
+    {
+      "topic": "ai",
+      "match": "^AI Performance Engineering Meetup\\b|^Deep Learning Study Group \\(San Francisco\\)$"
+    },
+    {
+      "topic": "tech",
+      "match": "^LFDT\\b|^(?:Graph Database SoCal|A Flock of Swifts)$"
+    },
+    {
+      "topic": "hardware",
+      "match": "^SYN Shop\\b"
+    },
+    {
+      "topic": "cyber",
+      "match": "^Irvine Underground\\b"
+    },
+    {
+      "topic": "hardware",
+      "match": "^3DPOC\\b"
+    },
+    {
+      "topic": "ai",
+      "match": "AI Developers? Group$"
+    },
+    {
+      "topic": "tech",
+      "match": "^Southern California Area Group for Informatics"
+    }
+  ],
+  "exclude_hosts": [
+    "acme certs academy",
+    "bootcamp outlet"
+  ]
+}

@@ -1,0 +1,294 @@
+[
+  {
+    "eventId": "440146824",
+    "eventName": "Pickleball Clinic for First Timers",
+    "eventDescription": "Bring a paddle and water. Courts are first come.",
+    "startDateTime": "2026-11-08T11:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Seaside Pickleball Club",
+    "venue": {
+      "city": "San Diego",
+      "name": "Ocean Courts Park"
+    }
+  },
+  {
+    "eventId": "478641093",
+    "eventName": "Tide Pool Ecology of Sunset Cove",
+    "eventDescription": "A guided talk by a retired marine biologist about the shoreline.",
+    "startDateTime": "2026-11-04T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Friends of Cabrillo Shore Reserve",
+    "venue": {
+      "city": "San Diego",
+      "name": "Cove Visitor Center"
+    }
+  },
+  {
+    "eventId": "457519973",
+    "eventName": "Monthly Open Bench for Builders, Menders and Crafters",
+    "eventDescription": "Once a month, bring a repair or craft to work on together.",
+    "startDateTime": "2026-11-04T19:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Example Makers Guild",
+    "venue": {
+      "city": "San Diego",
+      "name": "Repair Cafe Hall"
+    }
+  },
+  {
+    "eventId": "427820347",
+    "eventName": "High Tech Middle Student Outreach Morning (Certified teams only)",
+    "eventDescription": "",
+    "startDateTime": "2026-11-04T12:45:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Paws and Pals Therapy Dogs",
+    "venue": {
+      "city": "San Diego",
+      "name": "Campus Library"
+    }
+  },
+  {
+    "eventId": "420921766",
+    "eventName": "(OT)²Sec Online™: Practical Plant-Floor Skills for Cybersecurity Teams",
+    "eventDescription": "Controls networks and plant-floor device protection.",
+    "startDateTime": "2026-11-04T10:00:00-08:00",
+    "isOnline": true,
+    "eventShortUrl": "https://www.meetup.com/sd/events/420921766/",
+    "organizedByGroup": "San Diego Plant Security Circle",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "436785732",
+    "eventName": "Reinforcement Learning Agents Playing Themselves",
+    "eventDescription": "We read papers on how training loops work.",
+    "startDateTime": "2026-11-02T17:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Generative Systems Study Hall",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "426065580",
+    "eventName": "CUDA and PyTorch Speed Lab",
+    "eventDescription": "Techniques for faster training runs.",
+    "startDateTime": "2026-11-16T09:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "AI Performance Engineering Meetup",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "468089579",
+    "eventName": "Cybersecurity Course",
+    "eventDescription": "A five-week walk through security basics.",
+    "startDateTime": "2026-11-19T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Learners and Leaders Circle",
+    "venue": {
+      "city": "San Diego",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "advanced-manufacturing",
+    "eventName": "Advanced Manufacturing Course",
+    "eventDescription": "Walk the floor and see how products get designed and made today.",
+    "startDateTime": "2026-11-24T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Fabrication Commons",
+    "venue": {
+      "city": "San Diego",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "certified-teams-noise",
+    "eventName": "Pet Break Hour at the Engineering College (Certified Teams Only)",
+    "eventDescription": "",
+    "startDateTime": "2026-11-25T15:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Paws and Pals Therapy Dogs",
+    "venue": {
+      "city": "San Diego"
+    }
+  },
+  {
+    "eventId": "space-yacht-night",
+    "eventName": "Space Yacht Presents Tech My House Night",
+    "eventDescription": "Dancing all night to a secret set of DJs.",
+    "startDateTime": "2026-11-26T21:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Dance Floor Meetup",
+    "venue": {
+      "city": "San Diego",
+      "name": "Harbor Hall"
+    }
+  },
+  {
+    "eventId": "host-sd-ruby",
+    "eventName": "Winter Monthly Gathering",
+    "eventDescription": "",
+    "startDateTime": "2026-11-27T19:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "SD Ruby",
+    "venue": {
+      "city": "San Diego",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "vr-in-person",
+    "eventName": "Virtual Reality Demo Evening",
+    "eventDescription": "An in-person headset gathering.",
+    "startDateTime": "2026-11-28T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Headset Builders Circle",
+    "venue": {
+      "city": "San Diego",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "codathon-title",
+    "eventName": "Codathon",
+    "eventDescription": "A short session to ship small projects together.",
+    "startDateTime": "2026-11-29T12:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Neighborhood Project Circle",
+    "venue": {
+      "city": "San Diego",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "realestate-developers-noise",
+    "eventName": "Property Pros Mixer at Harbor Tap",
+    "eventDescription": "Open to lenders, agents, builders and Developers who work in housing.",
+    "startDateTime": "2026-11-30T17:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Housing Network Circle",
+    "venue": {
+      "city": "San Diego",
+      "name": "Harbor Tap"
+    }
+  },
+  {
+    "eventId": "developer-first-devrel",
+    "eventName": "Command Line Walkthrough for Building and Testing Helper Agents",
+    "eventDescription": "See a developer-first way to build and test agents with reusable skill files.",
+    "startDateTime": "2026-11-30T09:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Open Tooling Guild",
+    "venue": {
+      "city": "San Diego",
+      "name": "Workshop Annex"
+    }
+  },
+  {
+    "eventId": "swift-pairing-host",
+    "eventName": "Swift Online Pairing Hour",
+    "eventDescription": "Bring a project and pair with others.",
+    "startDateTime": "2026-11-05T09:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "A Flock of Swifts",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "spanish-founder-desc",
+    "eventName": "Beginner Plus Italian Conversation Practice",
+    "eventDescription": "Come chat in Italian at your own pace. I am a tutor and the founder of a small studio.",
+    "startDateTime": "2026-11-12T14:15:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Italian Conversation Table",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "sagim-guard",
+    "eventName": "Autumn Happy Hour at the Pub",
+    "eventDescription": "Come along for an easy evening, sponsored by one of our co-founders. We meet in the back room.",
+    "startDateTime": "2026-11-13T17:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Southern California Area Group for Informatics",
+    "venue": {
+      "city": "San Diego",
+      "name": "Corner Brewery"
+    }
+  },
+  {
+    "eventId": "405580454",
+    "eventName": "Local IEEE Consultants: Autumn Away Night at the Showcase",
+    "eventDescription": "Our consultants group visits the campus showcase this month.",
+    "startDateTime": "2027-01-19T16:30:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/consultants-network/events/405580454/",
+    "organizedByGroup": "Consultants Network Section",
+    "venue": {
+      "city": "La Jolla",
+      "name": "Engineering Hall"
+    }
+  },
+  {
+    "eventId": "ux-speakeasy-title",
+    "eventName": "Pixel Ghosts: A UX Costume Social",
+    "eventDescription": "Dress up and mingle with local designers.",
+    "startDateTime": "2027-01-27T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Design Speakeasy Group",
+    "venue": {
+      "city": "San Diego",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "summary-wordcut",
+    "eventName": "AI Weekend Planning Night",
+    "eventDescription": "See [Sample Link](https://example.org/y) for the **loud** agenda \\- then ### Topics pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages pages Zanzibarquux and more pages about the meeting repeat. pages pages pages pages pages pages pages pages pages pages pages pages ",
+    "startDateTime": "2026-11-21T18:00:00-08:00",
+    "isOnline": false,
+    "endDateTime": "2026-11-21T20:15:00-08:00",
+    "organizedByGroup": "Planning Circle",
+    "venue": {
+      "city": "San Diego",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "keyword-past-200",
+    "eventName": "Paperback Trade Evening",
+    "eventDescription": "Readers swap paperbacks and chat about endings, villains, and regional writers. Readers swap paperbacks and chat about endings, villains, and regional writers. Readers swap paperbacks and chat about endings, villains, and regional writers. Readers swap paperbacks and chat about endings, villains, and regional writers. An LLM mention shows up only near the end of this blurb.",
+    "startDateTime": "2026-11-22T18:00:00-08:00",
+    "isOnline": false,
+    "endDateTime": "2026-11-22T19:30:00-08:00",
+    "organizedByGroup": "Paperback Traders",
+    "venue": {
+      "city": "San Diego",
+      "name": "Library Lawn"
+    }
+  },
+  {
+    "eventId": "400000001",
+    "eventName": "AI Builders Roundtable Evening",
+    "eventDescription": "A round table for local AI builders.",
+    "startDateTime": "2026-12-03T18:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/builders-roundtable/events/400000001/",
+    "organizedByGroup": "Builders Roundtable Group",
+    "venue": {
+      "city": "San Diego",
+      "name": "Meeting Room"
+    }
+  }
+]

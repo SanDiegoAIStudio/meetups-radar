@@ -1,0 +1,5 @@
+runs/
+pulls/
+__pycache__/
+*.pyc
+luma-details-cache.json

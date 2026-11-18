@@ -1,0 +1,381 @@
+[
+  {
+    "eventId": "421246445",
+    "eventName": "(OT)²Sec Online™: Practical Plant-Floor Skills for Cybersecurity Teams",
+    "eventDescription": "Controls networks and plant-floor device protection.",
+    "startDateTime": "2026-11-04T10:00:00-08:00",
+    "isOnline": true,
+    "eventShortUrl": "https://www.meetup.com/sf/events/421246445/",
+    "organizedByGroup": "San Francisco Plant Security Circle",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "maker-jigsaw-noise",
+    "eventName": "Jigsaw Puzzle Night at Brightside Makerspace",
+    "eventDescription": "A relaxed puzzle evening in the shop.",
+    "startDateTime": "2026-11-19T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "maker-tour-signal",
+    "eventName": "Brightside Makerspace Tour",
+    "eventDescription": "Walk through the metal bay and the circuit bench.",
+    "startDateTime": "2026-11-20T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "electronics-title",
+    "eventName": "Electronics Night for Regulars",
+    "eventDescription": "",
+    "startDateTime": "2026-11-21T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Hackerspace Downtown",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Downtown Hackerspace"
+    }
+  },
+  {
+    "eventId": "host-programming-languages",
+    "eventName": "Checking Indexed Families Without Tears",
+    "eventDescription": "A discussion of a research paper.",
+    "startDateTime": "2026-11-22T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "SF Types, Theorems, and Programming Languages",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "host-startup-island",
+    "eventName": "Campus Showcase Demo Day",
+    "eventDescription": "",
+    "startDateTime": "2026-11-23T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Startup Island TAIWAN - Silicon Valley Hub",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "laser-jigsaw-hardware",
+    "eventName": "Laser-cut Wooden Jigsaw Puzzle Workshop",
+    "eventDescription": "Design and cut a puzzle on a laser cutter.",
+    "startDateTime": "2026-11-24T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Fabrication Guild",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Cutting Studio"
+    }
+  },
+  {
+    "eventId": "pyladies-title",
+    "eventName": "PyLadies Bay Area Evening Talks",
+    "eventDescription": "Announcements and talks.",
+    "startDateTime": "2026-11-25T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Evening Announcements",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "laser-lab-title",
+    "eventName": "Laser Lab Open Hours",
+    "eventDescription": "Open session in the cutting room.",
+    "startDateTime": "2026-11-26T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "dot-ai-domain",
+    "eventName": "Go Meetup in the Mission | Hosted by Acme.ai",
+    "eventDescription": "A gathering for gophers.",
+    "startDateTime": "2026-11-27T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "GoSF",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "openmetadata-title",
+    "eventName": "OpenMetadata Help Hours",
+    "eventDescription": "Ask product experts and contributors.",
+    "startDateTime": "2026-11-28T08:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Metadata Users Meetup Group",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "secret-scanning-title",
+    "eventName": "Secret Scanning for Sales Pipelines at Scale",
+    "eventDescription": "Find leaked API keys and tokens.",
+    "startDateTime": "2026-11-29T10:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Reactor Bay Online",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "llms-plural-desc",
+    "eventName": "Test Coverage Debate",
+    "eventDescription": "A common pitch for LLMs is more test coverage. Has it held up for you?",
+    "startDateTime": "2026-11-05T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Bay Working Group with Tools",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Corner Pub"
+    }
+  },
+  {
+    "eventId": "spec-decoding-host",
+    "eventName": "Speculative Decoding Meets Split Serving Stacks",
+    "eventDescription": "Serving speed tricks across stacks.",
+    "startDateTime": "2026-11-06T09:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "AI Performance Engineering Meetup (Bay Area)",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "transformer-paper-host",
+    "eventName": "Host A and Host B go over \"Wide Band Transformer\"",
+    "eventDescription": "Weekly reading session.",
+    "startDateTime": "2026-11-07T18:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Deep Learning Study Group (San Francisco)",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "identity-attack-surface",
+    "eventName": "Reducing Your Account Attack Surface",
+    "eventDescription": "Learn what raises account risk, from stale logins to excess permissions.",
+    "startDateTime": "2026-11-08T08:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Webinar Series Online",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "solder-kit-class",
+    "eventName": "Build a Tiny Radio from a Kit (Museum)",
+    "eventDescription": "Beginners welcome: practice soldering by assembling a small kit.",
+    "startDateTime": "2026-11-09T19:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Hackerspace Downtown",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Downtown Hackerspace"
+    }
+  },
+  {
+    "eventId": "woodworking-title",
+    "eventName": "Woodworking Workshop",
+    "eventDescription": "Bring your own wood. We have a jointer, a drill press and a bandsaw.",
+    "startDateTime": "2026-11-10T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Hackerspace Downtown",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Downtown Hackerspace"
+    }
+  },
+  {
+    "eventId": "melee-game-night",
+    "eventName": "Melee Academy (2nd & 4th Fighting Game Fridays)",
+    "eventDescription": "Singles bracket and coaching for all levels.",
+    "startDateTime": "2026-11-11T20:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Hackerspace Downtown",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Downtown Hackerspace"
+    }
+  },
+  {
+    "eventId": "mcp-online-title",
+    "eventName": "MCP Servers and Agent Skills Night",
+    "eventDescription": "Talks about MCP and agent skills.",
+    "startDateTime": "2026-11-12T09:00:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Frontier Builders Meetup",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "rocq-title",
+    "eventName": "SF Proofs Meetup: Rocq Workshop on Operational Semantics",
+    "eventDescription": "A hands-on proof assistant session.",
+    "startDateTime": "2026-11-13T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Formal Methods Circle",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "codex-build-night",
+    "eventName": "Codex Build Night: Ship a Helper",
+    "eventDescription": "Laptops welcome; pick a small project to finish.",
+    "startDateTime": "2026-11-14T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Build Night Community",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "laser-basics-title",
+    "eventName": "Laser Basics and Safety Sign-off",
+    "eventDescription": "Onboarding session for the big cutter.",
+    "startDateTime": "2026-11-15T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "hugging-face-desc",
+    "eventName": "Model Mondays: Managed Compute Spotlight",
+    "eventDescription": "Showcasing Hugging Face managed GPUs.",
+    "startDateTime": "2026-11-16T10:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "Reactor Bay Online",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "454513097",
+    "eventName": "Ace Hardware Hike to Lookout Point 3mi or 5mi",
+    "eventDescription": null,
+    "startDateTime": "2027-01-22T09:30:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/peninsula-midweek-hikers/events/454513097/",
+    "organizedByGroup": "Peninsula Midweek Hikers",
+    "venue": {
+      "city": "Pacifica",
+      "name": "Lookout Trailhead"
+    }
+  },
+  {
+    "eventId": "484707102",
+    "eventName": "Metal Lathe Workshop - First Session",
+    "eventDescription": "Learn turning, facing and threading on the manual lathe. Each student makes one part.",
+    "startDateTime": "2027-01-22T18:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/brightside-makerspace/events/484707102/",
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "401308717",
+    "eventName": "Bridgeport Game Development Meetup",
+    "eventDescription": "Beginner friendly lessons on making games, sound and pictures. Bring your laptop plus a favorite engine.",
+    "startDateTime": "2027-01-20T19:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/downtown-hackerspace/events/401308717/",
+    "organizedByGroup": "Hackerspace Downtown",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Downtown Hackerspace"
+    }
+  },
+  {
+    "eventId": "420114078",
+    "eventName": "Brightside Maker Social",
+    "eventDescription": "Talk shop with fellow makers. Snacks provided.",
+    "startDateTime": "2027-01-22T19:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/brightside-makerspace/events/420114078/",
+    "organizedByGroup": "Brightside Makerspace",
+    "venue": {
+      "city": "Oakland",
+      "name": "Brightside Makerspace"
+    }
+  },
+  {
+    "eventId": "468238978",
+    "eventName": "Builders & Founders San Francisco Mixer",
+    "eventDescription": "Grab a drink and chat about startups.",
+    "startDateTime": "2027-01-20T18:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/builders-and-founders/events/468238978/",
+    "organizedByGroup": "Builders and Founders Circle",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Corner Annex"
+    }
+  },
+  {
+    "eventId": "437787934",
+    "eventName": "Builders & Founders SF Mixer",
+    "eventDescription": "Come say hello in person.",
+    "startDateTime": "2027-01-20T18:00:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/builders-and-founders/events/437787934/",
+    "organizedByGroup": "Builders and Founders Circle",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Corner Annex"
+    }
+  },
+  {
+    "eventId": "vr-theater-title",
+    "eventName": "Immersive Stage Show in VR",
+    "eventDescription": "A live show staged in headsets, with the audience in one virtual room.",
+    "startDateTime": "2027-02-09T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Graphics Society Bay Chapter",
+    "venue": {
+      "city": "San Francisco",
+      "name": "Studio Lab"
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "verilog-title",
+    "name": "Verilog Study Evening",
+    "description": "",
+    "startAt": "2026-11-22T19:00:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/verilog-title",
+    "location": {
+      "locationType": "offline",
+      "city": "San Francisco"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "formal-math-title",
+    "name": "SF Formal Math Night",
+    "description": "",
+    "startAt": "2026-11-24T03:00:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/formal-math-title",
+    "location": {
+      "locationType": "offline",
+      "city": "San Francisco"
+    },
+    "organizer": {
+      "name": "Personal"
+    },
+    "ticketing": {
+      "isFree": null
+    }
+  },
+  {
+    "id": "ros-title",
+    "name": "Gantry and ROS Builder Night",
+    "description": "",
+    "startAt": "2026-11-25T03:00:00.000Z",
+    "category": "tech",
+    "lumaUrl": "https://lu.ma/ros-title",
+    "location": {
+      "locationType": "offline",
+      "city": "San Francisco"
+    },
+    "organizer": {
+      "name": "Gantry Robotics"
+    },
+    "ticketing": {
+      "isFree": true
+    }
+  },
+  {
+    "id": "bootcamp-outlet-cert",
+    "name": "Value Mapping Credential Workshop: Showcase",
+    "description": "Professional credit hours for coaches and HR practitioners.",
+    "startAt": "2027-01-27T18:00:00.000Z",
+    "category": "ai",
+    "lumaUrl": "https://lu.ma/bootcamp-outlet-cert",
+    "location": {
+      "locationType": "offline",
+      "city": "San Francisco"
+    },
+    "organizer": {
+      "name": "bootcamp outlet"
+    },
+    "ticketing": {
+      "isFree": false
+    }
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "eid": "excluded-host-ceh",
+    "name": "Defender Credential Prep: Ethical Hacking Bootcamp, National City",
+    "summary": "Four sessions covering the basics of ethical hacking.",
+    "start_datetime": "2026-11-12T09:00:00-08:00",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/acme-defense-bootcamp",
+    "primary_organizer": {
+      "name": "acme certs academy"
+    },
+    "primary_venue": {
+      "name": "Gateway Office Suites",
+      "address": {
+        "city": "Chula Vista"
+      }
+    }
+  },
+  {
+    "eid": "excluded-host-convention",
+    "name": "AI SAFETY SPRINT - BAY EDITION",
+    "summary": "Learn to use AI tools with care.",
+    "start_datetime": "2026-11-13T12:00:00-08:00",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/bootcamp-outlet-ai-sprint",
+    "primary_organizer": {
+      "name": "bootcamp outlet"
+    },
+    "primary_venue": {
+      "name": "Harbor Convention Hall",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "bootcamp-outlet-cert",
+    "name": "2 Day Training for Agile Facilitators, Escondido, CA",
+    "summary": "Pass the exam and earn your credential.",
+    "start_datetime": "2026-11-14T09:00:00-08:00",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/pathway-agile-coach",
+    "primary_organizer": {
+      "name": "Pathway Prep Institute"
+    },
+    "primary_venue": {
+      "name": "Downtown Office Suites",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "end-fields",
+    "name": "AI Night Session",
+    "summary": "Talks about practical AI work.",
+    "start_datetime": "2026-11-11T18:00:00",
+    "end_date": "2026-11-11",
+    "end_time": "8:30 PM",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/night-session",
+    "primary_organizer": {
+      "name": "Night AI Circle"
+    },
+    "primary_venue": {
+      "name": "Meeting Hall",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "hidden-end",
+    "name": "AI Late Session",
+    "summary": "Talks about practical AI tools.",
+    "start_datetime": "2026-11-12T18:00:00",
+    "end_date": "2026-11-12",
+    "end_time": "9:00 PM",
+    "hide_end_date": true,
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/late-session",
+    "primary_organizer": {
+      "name": "Late AI Circle"
+    },
+    "primary_venue": {
+      "name": "Meeting Hall",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "end-without-time",
+    "name": "AI Drop-in Workshop",
+    "summary": "A hands-on AI session for builders.",
+    "start_date": "2026-11-15",
+    "start_time": "18:00",
+    "end_date": "2026-11-16",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/drop-in-workshop",
+    "primary_organizer": {
+      "name": "Drop-in Circle"
+    },
+    "primary_venue": {
+      "name": "Meeting Hall",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "roundtable-eb",
+    "name": "AI Builders Roundtable Evening",
+    "summary": "A round table for local AI builders.",
+    "start_datetime": "2026-12-03T18:00:00",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/ai-builders-roundtable",
+    "primary_organizer": {
+      "name": "Roundtable Hosts"
+    },
+    "primary_venue": {
+      "name": "Meeting Room",
+      "address": {
+        "city": "San Diego"
+      }
+    }
+  },
+  {
+    "eid": "out-of-region",
+    "name": "AI Builders Social",
+    "summary": "Talks and demos about AI tools.",
+    "start_datetime": "2026-11-19T18:00:00",
+    "is_online_event": false,
+    "url": "https://www.eventbrite.com/e/valley-ai-social",
+    "primary_organizer": {
+      "name": "Valley AI Circle"
+    },
+    "primary_venue": {
+      "name": "Fairgrounds Hall",
+      "address": {
+        "city": "Fresno"
+      }
+    }
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "active": [
+    {
+      "slug": "san-diego",
+      "label": "San Diego",
+      "tz": "America/Los_Angeles",
+      "luma_city": "San Diego",
+      "meetup": {
+        "city": "San Diego",
+        "state": "CA",
+        "radius": 30
+      },
+      "kws": [
+        "AI",
+        "python",
+        "javascript",
+        "rust",
+        "cybersecurity",
+        "cloud",
+        "data",
+        "startup",
+        "software",
+        "linux",
+        "iOS",
+        "robotics",
+        "3D printing",
+        "maker",
+        "drone",
+        "hardware",
+        "IoT",
+        "autonomous",
+        "computer vision",
+        "virtual reality"
+      ],
+      "registry": true,
+      "eventbrite": {
+        "city": "san-diego",
+        "region": [
+          "san diego",
+          "la jolla",
+          "del mar",
+          "solana beach",
+          "encinitas",
+          "carlsbad",
+          "oceanside",
+          "vista",
+          "san marcos",
+          "escondido",
+          "poway",
+          "chula vista",
+          "national city",
+          "coronado",
+          "el cajon",
+          "la mesa",
+          "santee",
+          "imperial beach",
+          "lemon grove",
+          "spring valley",
+          "rancho santa fe",
+          "temecula",
+          "murrieta"
+        ]
+      }
+    },
+    {
+      "slug": "los-angeles",
+      "label": "Los Angeles",
+      "tz": "America/Los_Angeles",
+      "luma_city": "Los Angeles",
+      "meetup": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "radius": 30
+      },
+      "kws": [
+        "AI",
+        "data",
+        "cybersecurity",
+        "robotics",
+        "hardware"
+      ],
+      "registry": false
+    },
+    {
+      "slug": "orange-county",
+      "label": "Orange County",
+      "tz": "America/Los_Angeles",
+      "luma_city": null,
+      "meetup": {
+        "city": "Irvine",
+        "state": "CA",
+        "radius": 20
+      },
+      "kws": [
+        "AI",
+        "data",
+        "cybersecurity",
+        "robotics",
+        "hardware"
+      ],
+      "registry": false
+    },
+    {
+      "slug": "sf-bay",
+      "label": "SF Bay",
+      "tz": "America/Los_Angeles",
+      "luma_city": "San Francisco",
+      "meetup": {
+        "city": "San Francisco",
+        "state": "CA",
+        "radius": 30
+      },
+      "kws": [
+        "AI",
+        "data",
+        "cybersecurity",
+        "robotics",
+        "hardware"
+      ],
+      "registry": false
+    },
+    {
+      "slug": "las-vegas",
+      "label": "Las Vegas",
+      "tz": "America/Los_Angeles",
+      "luma_city": "Las Vegas",
+      "meetup": {
+        "city": "Las Vegas",
+        "state": "NV",
+        "radius": 30
+      },
+      "kws": [
+        "AI",
+        "data",
+        "cybersecurity",
+        "robotics",
+        "hardware"
+      ],
+      "registry": false
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "eventId": "421143498",
+    "eventName": "(OT)²Sec Online™: Practical Plant-Floor Skills for Cybersecurity Teams",
+    "eventDescription": "Controls networks and plant-floor device protection.",
+    "startDateTime": "2026-11-04T10:00:00-08:00",
+    "isOnline": true,
+    "eventShortUrl": "https://www.meetup.com/lv/events/421143498/",
+    "organizedByGroup": "Las Vegas Plant Security Circle",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "bitcoin-title",
+    "eventName": "Desert Bitcoiners Happy Hour",
+    "eventDescription": "A monthly social.",
+    "startDateTime": "2026-11-19T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Desert Bitcoiners",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "foundernv-title",
+    "eventName": "FounderNV Presents Build Your Runway",
+    "eventDescription": "A discussion for founders.",
+    "startDateTime": "2026-11-20T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Silver State Starters",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "wordpress-title",
+    "eventName": "WordCamp Recap and WordPress Hosting Tips",
+    "eventDescription": "A technical community recap.",
+    "startDateTime": "2026-11-24T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Web Builders Group",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "swiftui-title",
+    "eventName": "SwiftUI Updates Worth Knowing",
+    "eventDescription": "A community chat.",
+    "startDateTime": "2026-11-25T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Mobile Builders Group",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "okta-title",
+    "eventName": "Okta Workflows Community Night, Oktane 2027",
+    "eventDescription": "Automation community gathering.",
+    "startDateTime": "2026-11-26T16:30:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Workflow Builders",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "claude-cowork-talk",
+    "eventName": "Run a Small Shop with AI: Meet Claude Cowork",
+    "eventDescription": "A product demo and discussion.",
+    "startDateTime": "2026-11-27T18:00:00-08:00",
+    "isOnline": false,
+    "organizedByGroup": "Vegas Builders Guild",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Meeting Room"
+    }
+  },
+  {
+    "eventId": "synshop-stream-host",
+    "eventName": "LIVE! Shop Project Stream Night!",
+    "eventDescription": "Watch members build projects live from the shop floor.",
+    "startDateTime": "2026-11-05T19:30:00-08:00",
+    "isOnline": true,
+    "organizedByGroup": "SYN Shop - Desert Hackerspace Annex",
+    "venue": {
+      "venueType": "online",
+      "name": "Online event"
+    }
+  },
+  {
+    "eventId": "478826666",
+    "eventName": "Free Intro Talk: Inner Engineering and Breathwork",
+    "eventDescription": "A free first session for people curious about inner engineering practice.",
+    "startDateTime": "2027-02-01T10:45:00-08:00",
+    "isOnline": false,
+    "eventShortUrl": "https://www.meetup.com/wellness-foundation-free-classes/events/478826666/",
+    "organizedByGroup": "Wellness Foundation Free Classes",
+    "venue": {
+      "city": "Las Vegas",
+      "name": "Maple Library"
+    }
+  }
+]
